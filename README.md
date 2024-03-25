@@ -50,10 +50,6 @@
 ### 발표자료
 [ppt](docs/presentation/공통PJT_서울_8반_A803_허주혁.pdf)
 
-</br>
-[발표영상](docs/presentation/공통PJT_서울_8반_A803_UCC경진대회.mp4)
-
-
 ## 역할
 
 ### 프론트
@@ -98,16 +94,7 @@
 <br/>
 <br/>
 
-
-----
-
-## 정보구조도 
-![정보구조도](/uploads/a789c3a4597dd16b9642b5002b7873cb/image.png)
-![중개사구조도](/uploads/e3f8510d1b700b495ebf14a8bcf52757/image.png)
-
 ## Frontend
-[figma](https://www.figma.com/file/SOoHTxgMwKQqBppPFFAvHY/%EB%B6%80%EB%8F%99%EC%82%B0-%EC%A4%91%EA%B0%9C-%ED%99%94%EC%83%81-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%95%B1-MVP-(1%EC%B0%A8-%EC%99%84%EC%84%B1%EB%B3%B8)-(Copy)?type=design&node-id=111%3A2&mode=design&t=ZmTgbWDQAYHdGAx7-1)
-
 ##### 사용자
 <div>
 <img src="readme_assets/Screenshot_20230818_122901.png" width="200">
@@ -138,89 +125,4 @@
 #### 명세서
 [기능명세서/API명세서](https://docs.google.com/spreadsheets/d/1O8tJik-yb2d7x9Nqm7bvH7MYdZcXFeiq4Sb5f2xZhYU/edit?usp=sharing)
 ![API1](readme_assets/api1.PNG)
-
-#### Swagger
-[auth](http://i9a803.p.ssafy.io:8080/swagger-ui/index.html)
-
-[business](http://i9a803.p.ssafy.io:8081/swagger-ui/index.html)
-
-[notice](http://i9a803.p.ssafy.io:8082/swagger-ui/index.html)
-
------
-
-
-
-<!-- - MVP 제작
-    - Figma MVP 제작
-        - MVP (Flutter) 초안 미완성
-            - filter
-            - 매물 등록 페이지(agent)
-            - Like
-            - MyPage
-            - user
-            - agent
-            - Live Page
-            - Live Page map
-            - direct distance
-            - Map
-            - Index
-            - SignUp
-            - social login
-            - SignIn(우선적 회원가입 위주)
-            - social login
-            - Licenses
-            - payment
-            - Details
-                - 전화, 메세지 연결하기
-                - 구매 정보
-                - 방 정보
-                - 추가 옵션
-            - Chatting
-            - DM
-            - 알림창
-            - 공인중개사 사무소 페이지
-            - 공인중개사 등록 매물 페이지
-            - live 일정 공지 창
-            - 게시판 형식?
-            - splash -->
-
-
-<!-- ## 개발 시작 및 진행 중 -->
-
-<!-- ### Frontend
-
-![splash](readme_assets/splash.PNG)
-![main](readme_assets/main.PNG)
-![detail](readme_assets/detail.PNG)
-![filter](readme_assets/filter.PNG)
-
-- Flutter MVP 제작
-    - detail Page
-        - 전화 연결
-        - 구매정보
-        - 방정보
-        - 추가 옵션
-        - carousel
-    - filter
-        - list
-    - appbar
-    - splash
-    - navbar
-    - router
-    - 카카오 소셜 로그인(front)
-
-
-
-
-### Backend
-
-auth swagger(추후 외부 포트 닫을 예정)
-http://i9a803.p.ssafy.io:8080/swagger-ui/index.html
-
-business swagger
-http://i9a803.p.ssafy.io:8081/swagger-ui/index.html
-
-notice swagger
-http://i9a803.p.ssafy.io:8082/swagger-ui/index.html -->
-
 
